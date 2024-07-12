@@ -1,0 +1,4 @@
+<?php
+  $locked_folders = [];
+
+
